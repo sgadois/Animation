@@ -33,3 +33,5 @@
 
 #IDE
 *.cbp
+*.depend  
+*.layout 
